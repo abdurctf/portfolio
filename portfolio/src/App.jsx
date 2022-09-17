@@ -3,11 +3,11 @@ import Header from './components/header/Header'
 import Nav from './components/nav/Nav'
 import Contact from './components/contact/Contact'
 import Experience from './components/experience/Experience'
+import Projects from './components/projects/Projects'
 import Footer from './components/footer/Footer'
 import About from './components/about/About'
-import Services  from './components/services/Services'
+import Clubs from './components/clubs/Clubs'
 
-import Testimonials from './components/testimonials/Testimonials'
 
 
 const App = () => {
@@ -15,10 +15,11 @@ const App = () => {
     <><Header/>
     <Nav/>
     <About/>
-    <Contact/>
+   
     <Experience/>
-    <Services/>
-    <Testimonials/>
+    <Projects/>
+    <Clubs/>
+    <Contact/>
     <Footer/>
     
     </>

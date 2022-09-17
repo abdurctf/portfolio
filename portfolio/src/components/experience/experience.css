@@ -60,6 +60,12 @@
   /*============== MEDIA QUERIES(SMALL DEVICES) ====================*/
 
   @media screen and (max-width: 600px){
-     
-  
-  }
+    .experience__container{
+        gap: 1rem;
+        
+    }
+    .experience__container >div{
+        padding: 2rem 1rem;
+        width: 80%;
+    }
+}
