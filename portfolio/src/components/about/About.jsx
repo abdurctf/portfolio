@@ -41,7 +41,10 @@ const About = () => {
           
         </div>
       <p>
-      I am just learning React thanks!
+      I'm an international student from Bangladesh always hungry to learn about the latest tech out there.
+      Aside from being a full-time student, I manage time to compete in coding competitions and hackathons,
+      attend socials on campus, go cycling, and cook with my roommates. Currently, I am learning React
+       and plan to master the MERN stack
       </p>
 
       <a href="#contact" className='btn btn-primary'>Let's chat!</a>

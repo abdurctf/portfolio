@@ -5,6 +5,7 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import 'swiper/css/pagination';
 import HackaBull from '../../assets/hackabull.png'
+import Icpc from '../../assets/icpc.png'
 
 const data=[
     {
@@ -36,6 +37,12 @@ const data=[
       title:'Hackabull USF',
       position:"March 23,2022",
       image: HackaBull
+    },
+    {
+      id:6,
+      title:'ICPC 2022 Regionals',
+      position:'March 8th, 2022',
+      image: Icpc
     },
   
   
