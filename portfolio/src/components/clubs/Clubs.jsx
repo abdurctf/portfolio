@@ -6,6 +6,8 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 import HackaBull from '../../assets/hackabull.png'
 import Icpc from '../../assets/icpc.png'
+import Tmc from '../../assets/tmc.jpg'
+import Msa from '../../assets/msa.jpg'
 
 const data=[
     {
@@ -24,13 +26,13 @@ const data=[
       id:3,
       title:'MSA USF',
       position:"Member, August 2020- Present",
-      image:"https://scontent.ftpa1-1.fna.fbcdn.net/v/t1.6435-9/34660003_1828210337217198_249448513685946368_n.png?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=VHpldz1BykoAX_20GZI&_nc_ht=scontent.ftpa1-1.fna&oh=00_AT-EeZpd_DVdHrDVF9irziFFiTiIR94358XxfgDAYrPenQ&oe=634B36DA"
+      image: Msa
     },
     {
       id:4,
       title:'TMC USF',
-      position:"Jummah Coordinator, August 2022-Present",
-      image:"https://yt3.ggpht.com/a/AATXAJx9Q3mNjtebf6BdJqWFcrlCbPNv5m-v3HBM3Q=s900-c-k-c0xffffffff-no-rj-mo"
+      position:"Vice President, August 2022-Present",
+      image: Tmc
     },
     {
       id:5,

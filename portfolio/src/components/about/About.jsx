@@ -23,7 +23,9 @@ const About = () => {
         <article className='about__card'>
             <FaAward className='about__icon'/>
             <h5>Experience</h5>
-            <small>SOFTWARE ENGINEERING INTERN, LEADS CORPORATION </small>
+            <small> SOFTWARE ENGINEERING INTERN, LEADS CORPORATION(2022) </small>
+            
+            <small> TEACHING ASSISTANT, USF CSE(2023) </small>
             
           </article>
           <article className='about__card'>
@@ -32,19 +34,16 @@ const About = () => {
             <small>Junior, CS, USF </small>
             
           </article>
-          <article className='about__card'>
+          {/* <article className='about__card'>
             <VscFolderLibrary className='about__icon'/>
             <h5>Projects</h5>
             <small>Majoring in Computer Science at USF</small>
-          </article>
+          </article> */}
             
           
         </div>
       <p>
-      I'm an international student from Bangladesh always hungry to learn about the latest tech out there.
-      Aside from being a full-time student, I manage time to compete in coding competitions and hackathons,
-      attend socials on campus, go cycling, and cook with my roommates. Currently, I am learning React
-       and plan to master the MERN stack
+      Hello, I am an emerging Computer Science junior at the University of South Florida. I recently completed my role as a software engineering intern and realized that I am a very fast learner given that I have a supportive and collaborative environment around me. As a beginner developer, I rely heavily on my soft skills to get tasks done and it has proven quite successful for me throughout my previous work experience. Currently, I am learning React, mastering Data Structures and Algorithms, and searching for an internship in Summer 2023.
       </p>
 
       <a href="#contact" className='btn btn-primary'>Let's chat!</a>
